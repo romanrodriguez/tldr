@@ -1,0 +1,20 @@
+# neofetch
+
+> CLI system information tool that displays information about your system next to an image, your OS logo, or any ASCII file of your choice.
+> NOTE: Every launch flag has a config option.
+
+- Pass specific options and values:
+`neofetch --option "value" --option "value"`
+
+- Allows you to disable an info line from appearing in the output:
+`neofetch --disable infoname`
+
+- Hide/Show Package Manager names . (tiny, on, off):
+`neofetch --package_managers on/off`
+
+- Hide/Show OS architecture:
+`neofetch --os_arch on/off`
+
+- Enable/Disable CPU brand in output:
+`neofetch --cpu_brand on/off`
+
